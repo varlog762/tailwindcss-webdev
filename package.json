@@ -4,7 +4,7 @@
   "description": "TailWindCSS course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tailwindcss build -i src/main.scc -o public/styles.css"
   },
   "keywords": [
     "tailwind"
