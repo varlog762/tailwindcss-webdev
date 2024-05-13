@@ -12,6 +12,7 @@
   "author": "Gregory Pereverzev",
   "license": "ISC",
   "devDependencies": {
+    "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3"
   }
 }
